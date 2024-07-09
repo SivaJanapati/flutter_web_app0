@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229314031683",
+    "project_id": "catalog-add-69226",
+    "storage_bucket": "catalog-add-69226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229314031683:android:73826789036dd148d8e4f6",
+        "android_client_info": {
+          "package_name": "com.example.nat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_zz1_dM_vKbCawRNMVD5ZjYLlos62x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
